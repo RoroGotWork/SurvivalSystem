@@ -1,0 +1,4 @@
+time_stuck: 60
+item: "golden_apple"
+death_tag: "&2<player>'s body (<time_left>s)"
+health_on_revival: 5.0

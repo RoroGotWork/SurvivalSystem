@@ -1,0 +1,6 @@
+name: DeathSystem
+version: '${project.version}'
+main: fr.rorocraft.deathsystem.DeathSystem
+api-version: 1.18
+authors: [ RoroGotWork ]
+description: A custom death system
